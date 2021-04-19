@@ -1,6 +1,5 @@
-let alpha = '1' ;
-let beta = '2' ;
-let delta = '3' ;
-let monkey = ['1','2','3'] ;
-console.log = (monkey.length)
-// 2
+let alpha = "1" ;
+let beta = "2" ;
+let gama = "3" ;
+let monkey = [ alpha, beta, gama ] ;
+console.log = (monkey) ;
